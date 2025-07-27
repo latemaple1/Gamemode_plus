@@ -2,9 +2,9 @@
     "id": "gamemode_plus",
     "version": "1.2.0",
     "name": "Gamemode_plus",
-    "description": "",
+    "description": "高级版灵魂出窍(切旁观, 切回生存传送回原位置)",
     "author": "late_maple",
-    "link": "",
+    "link": "https://github.com/latemaple1/Gamemode_plus",
     "dependencies": {
         "mcdreforged": "^2.0.0",
         "minecraft_data_api": ">=1.1.0"
