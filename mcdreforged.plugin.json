@@ -1,0 +1,12 @@
+{
+    "id": "gamemode_plus",
+    "version": "1.2.0",
+    "name": "Gamemode_plus",
+    "description": "",
+    "author": "late_maple",
+    "link": "",
+    "dependencies": {
+        "mcdreforged": "^2.0.0",
+        "minecraft_data_api": ">=1.1.0"
+    }
+}
